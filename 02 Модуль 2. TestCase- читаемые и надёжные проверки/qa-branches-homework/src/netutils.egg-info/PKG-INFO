@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: netutils
+Version: 0.1.0
+Summary: Network utilities with port parsing
+Requires-Python: >=3.8

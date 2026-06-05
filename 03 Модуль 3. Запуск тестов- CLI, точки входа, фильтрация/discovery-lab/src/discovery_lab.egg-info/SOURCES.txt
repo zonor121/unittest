@@ -1,0 +1,7 @@
+pyproject.toml
+src/discovery_lab.egg-info/PKG-INFO
+src/discovery_lab.egg-info/SOURCES.txt
+src/discovery_lab.egg-info/dependency_links.txt
+src/discovery_lab.egg-info/top_level.txt
+src/shop/__init__.py
+src/shop/pricing.py

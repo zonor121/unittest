@@ -1,0 +1,6 @@
+pyproject.toml
+src/order_service_autospec.egg-info/PKG-INFO
+src/order_service_autospec.egg-info/SOURCES.txt
+src/order_service_autospec.egg-info/dependency_links.txt
+src/order_service_autospec.egg-info/top_level.txt
+tests/test_order_service.py
